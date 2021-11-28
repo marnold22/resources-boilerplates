@@ -1,4 +1,4 @@
-# resources-boilerplates
+# Resources and Boilerplates
 
 This is a repository that contains:
 
