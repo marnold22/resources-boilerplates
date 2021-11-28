@@ -1,6 +1,8 @@
 # Resources and Boilerplates
 
-This is a repository that contains:
+---
+
+### This is a repository that contains:
 
 - Resources
 - Templates
@@ -11,7 +13,7 @@ As well as various other boilerplate things for reference when doing webdev.
 
 ---
 
-Here is a list of repositories to reference for fun later on:
+### Here is a list of repositories to reference for fun later on:
 
 1. MAIN LIST OF 75
     - https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-may-2020-1gfg
