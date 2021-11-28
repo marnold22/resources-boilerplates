@@ -7,4 +7,4 @@ This is a repository that contains:
 - Tools
 - Links
 
-and various other boilerplate things for reference when doing webdev.
+As well as various other boilerplate things for reference when doing webdev.
